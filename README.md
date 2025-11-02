@@ -8,7 +8,7 @@ TypeScript - Tipagem estática para maior confiabilidade
 
 Vite - Build tool rápida e eficiente 
  
-Tailwind CSS - Framework CSS utilitário
+Tailwind CSS - Framework CSS utilitário 
 
 Lucide React - Ícones modernos e consistentes 
 
