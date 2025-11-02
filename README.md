@@ -15,7 +15,7 @@ Lucide React - Ícones modernos e consistentes
 ESLint - Linting e formatação de códig 
 
 📋 Funcionalidades
-A aplicação é organizada em um fluxo de três etapas principais:
+A aplicação é organizada em um fluxo de três etapas principais: 
 
 1. Quiz (Quiz)
 Questionário interativo para avaliação inicial
