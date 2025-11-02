@@ -12,7 +12,7 @@ Tailwind CSS - Framework CSS utilitário
 
 Lucide React - Ícones modernos e consistentes
 
-ESLint - Linting e formatação de código
+ESLint - Linting e formatação de códig 
 
 📋 Funcionalidades
 A aplicação é organizada em um fluxo de três etapas principais:
