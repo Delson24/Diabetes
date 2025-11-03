@@ -1,5 +1,5 @@
 🩺 Comprehensive Diabetes Management Web App
-Uma aplicação web moderna para gerenciamento abrangente de diabetes, desenvolvida com React, TypeScript e Tailwind CSS.
+Uma aplicação web moderna para gerenciamento abrangente de diabetes, desenvolvida com React, TypeScript e Tailwind CSS. 
 
 🚀 Tecnologias Utilizadas
 React 18 - Biblioteca principal para interface do usuário
