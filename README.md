@@ -9,7 +9,7 @@ TypeScript - Tipagem estática para maior confiabilidade
 Vite - Build tool rápida e eficiente 
   
 Tailwind CSS - Framework CSS utilitário 
-
+ 
 Lucide React - Ícones modernos e consistentes 
 
 ESLint - Linting e formatação de códig 
