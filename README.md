@@ -4,7 +4,7 @@ Uma aplicação web moderna para gerenciamento abrangente de diabetes, desenvolv
 🚀 Tecnologias Utilizadas 
 React 18 - Biblioteca principal para interface do usuário
 
-TypeScript - Tipagem estática para maior confiabilidade
+TypeScript - Tipagem estática para maior confiabilidade 
 
 Vite - Build tool rápida e eficiente 
  
